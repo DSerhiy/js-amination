@@ -1,0 +1,4 @@
+.fa-leave-active {
+  transition: opacity 1s;
+  opacity: 0;
+}
